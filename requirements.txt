@@ -1,0 +1,6 @@
+transformers==4.33.2
+pandas==2.1.1
+torch==2.0.1
+transformers
+matplotlib
+numpy<2.0.x
